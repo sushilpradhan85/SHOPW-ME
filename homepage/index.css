@@ -1,0 +1,44 @@
+/* Body styling */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation bar styling */
+/* nav tag styling */
+nav {
+    width: 100%;
+    background: rgb(0, 192, 255);
+    overflow: auto;
+}
+
+/* links id styling for <ul> tag */
+#links {
+    padding: 0;
+    margin: 0 0 0 200px;
+    list-style: none;
+}
+
+/* links1 class styling for <li> tag */
+.links1 {
+    display: inline-block;
+}
+
+/* Buisness logo img styling */
+#logo img {
+    position: absolute;
+}
+
+/* styling the <a> tag for nav bar */
+nav a {
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f2f2f2;
+    text-align: center;
+}
+
+#search {
+    margin-left: 300px;
+}
